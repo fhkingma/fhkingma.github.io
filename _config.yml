@@ -17,13 +17,16 @@ github_username:  fhkingma
 #instagram_username: chillwildlife
 linkedin_username: friso-kingma-b94496a0
 # pinterest_username: jekyll
-youtube_username: UCoKqCMaGUF5jj0WDC506Y7Q
+#youtube_username: UCoKqCMaGUF5jj0WDC506Y7Q
 # googleplus_username: +jekyll
 
 additional_links:
 - title: Google Scholar
   icon: fa-google
   url: https://scholar.google.com/citations?user=mVk7QmUAAAAJ
+- title: Youtube Channel
+  icon: fa-youtube
+  url: https://www.youtube.com/channel/UCoKqCMaGUF5jj0WDC506Y7Q
 
 # About Section
 #about_title: About Me
