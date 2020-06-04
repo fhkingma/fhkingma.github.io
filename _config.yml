@@ -20,6 +20,11 @@ linkedin_username: friso-kingma-b94496a0
 youtube_username: UCoKqCMaGUF5jj0WDC506Y7Q
 # googleplus_username: +jekyll
 
+additional_links:
+- title: Google Scholar
+  icon: fa-google
+  url: https://scholar.google.com/citations?user=mVk7QmUAAAAJ
+
 # About Section
 #about_title: About Me
 about_profile_image: images/profile.jpg
